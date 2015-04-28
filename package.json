@@ -1,0 +1,8 @@
+{
+	"name": "quality-thumb",
+	"version": "0.0.1",
+	"main": "qthumb.js",
+	"dependencies": {
+		"canvas": "latest"
+	}
+}
