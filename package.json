@@ -1,5 +1,5 @@
 {
-	"name": "quality-thumb",
+	"name": "qthumb",
 	"version": "0.0.1",
 	"main": "qthumb.js",
 	"dependencies": {
